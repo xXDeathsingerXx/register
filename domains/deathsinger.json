@@ -1,0 +1,13 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "xXDeathsingerXx",
+    "email": "xXDeathsingerXx@web.de"
+  },
+  "record": {
+    [
+      "2a00:6020:4795:b000:9b30:65eb:1737:b11f"
+    ]
+  }
+}
